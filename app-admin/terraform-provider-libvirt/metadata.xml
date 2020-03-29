@@ -2,8 +2,8 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="person">
-		<email>root@phreeek.de</email>
-		<name>phreeek</name>
+		<email>juergen@loehel.de</email>
+		<name>Jürgen Löhel</name>
 		<description></description>
 	</maintainer>
 	<use>

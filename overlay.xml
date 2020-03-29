@@ -2,13 +2,13 @@
 
 <repositories version="1.0">
     <repo priority="50" quality="experimental" status="unofficial">
-        <name>phreeeks-overlay</name>
-        <description>phreeeks custom overlay</description>
+        <name>jloehels-overlay</name>
+        <description>jloehels custom overlay</description>
         <homepage>https://github.com/phreeek/gentoo</homepage>
         <owner>
-            <name>phreeek</name>
-            <email>root@phreeek.de</email>
+            <name>Jürgen Löhel</name>
+            <email>juergen@loehel.de</email>
         </owner>
-        <source type="git">https://github.com/phreeek/gentoo.git</source>
+        <source type="git">https://github.com/jloehel/gentoo.git</source>
     </repo>
 </repositories>
