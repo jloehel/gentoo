@@ -1,9 +1,9 @@
-Simply add the file /etc/portage/repos.conf/phreeek.conf::
+Simply add the file /etc/portage/repos.conf/jloehel.conf::
 
-    [phreeek]
-    location = /usr/local/portage/phreeek
+    [jloehel]
+    location = /usr/local/portage/jloehel
     sync-type = git
-    sync-uri = https://github.com/phreeek/gentoo.git
+    sync-uri = https://github.com/jloehel/gentoo.git
     auto-sync = yes
 
-and run emerge --sync phreeek
+and run emerge --sync jloehel
